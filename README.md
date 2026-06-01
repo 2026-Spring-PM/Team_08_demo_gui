@@ -32,7 +32,7 @@ http://localhost:6080/vnc.html
 |   I   | Open Inventory |
 |   M   | Minimap |
 |  Esc  | Cancel / Close menu |
-
+| ← / → | Switch the currently held item (cycles through inventory, ) |
 ---
 
 ## Game Systems
